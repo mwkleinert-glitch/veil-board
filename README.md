@@ -6,4 +6,4 @@ After GitHub Pages is turned on (Settings → Pages → Deploy from branch `main
 
 https://mwkleinert-glitch.github.io/veil-board/
 
-Locked facts only. U.S. Patent pending, App. No. 64/158,376, filed September 19, 2026. Not an issued patent.
+Locked facts only. U.S. Patent pending, App. No. 64/158,376, filed September 19, 2026.
